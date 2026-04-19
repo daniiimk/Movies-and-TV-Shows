@@ -6,8 +6,8 @@ const IMG = 'https://image.tmdb.org/t/p/w500';
 ========================= */
 const heroItems = [
   { title: 'The Boys', type: 'tv', label: 'Prime Video' },
-  { title: 'Sons of Anarchy', type: 'tv', label: 'FX' },
-  { title: 'Vikings', type: 'tv', label: 'History' },
+  { title: 'Reacher', type: 'tv', label: 'Action' },
+  { title: 'Tracker', type: 'tv', label: 'Action-Drama' },
 ];
 
 /* =========================
