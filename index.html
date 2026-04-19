@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movies and TV-Series</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  </head>
+  <body>
+    <header>
+      <a href="#" class="logo"><i class="bx bxs-movie"></i> Movies</a>
+      <div class="bx bx-menu" id="menu-icon"></div>
+      <ul class="navbar">
+        <li><a href="#home" class="home-active">Home</a></li>
+        <li><a href="#movies">Movies</a></li>
+        <li><a href="#tv-shows">TV-Shows</a></li>
+      </ul>
+      <div class="header-right">
+        <div class="search-bar" id="search-bar">
+          <i class="bx bx-search" id="search-icon"></i>
+          <input type="text" id="search-input" placeholder="Search..." autocomplete="off" />
+          <div class="search-results" id="search-results"></div>
+        </div>
+        <a href="#" class="btn">Sign In</a>
+      </div>
+    </header>
+
+    <!-- Hero Swiper -->
+    <section class="home swiper" id="home">
+      <div class="swiper-wrapper" id="hero-wrapper"></div>
+      <div class="swiper-pagination"></div>
+    </section>
+
+    <!-- Footer -->
+    <section class="footer">
+      <div class="social">
+        <a href="#"><i class="bx bxl-facebook"></i></a>
+        <a href="#"><i class="bx bxl-twitter"></i></a>
+        <a href="#"><i class="bx bxl-instagram"></i></a>
+        <a href="#"><i class="bx bxl-tiktok"></i></a>
+      </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
