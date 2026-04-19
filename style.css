@@ -237,7 +237,7 @@ header.shadow #search-icon {
 
 .container {
   width: 100%;
-  min-height: 930px;
+  height: 100vh;
   position: relative;
   display: flex;
   align-items: center;
@@ -250,7 +250,7 @@ header.shadow #search-icon {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center;
+  object-position: center top;
   z-index: -1;
 }
 
