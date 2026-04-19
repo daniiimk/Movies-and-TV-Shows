@@ -237,6 +237,8 @@ header.shadow #search-icon {
 
 .container {
   width: 100%;
+  max-width: 1920px;
+  min-height: 600px;
   height: 100vh;
   position: relative;
   display: flex;
@@ -265,6 +267,13 @@ header.shadow #search-icon {
 .swiper-pagination-bullet-active {
   width: 1.5rem !important;
   background: var(--main-color) !important;
+}
+
+.home {
+  max-width: 1400px;
+  margin: 80px auto 0;
+  border-radius: 1rem;
+  overflow: hidden;
 }
 
 .home-text {
