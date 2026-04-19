@@ -226,6 +226,7 @@ const sections = [
       { title: 'Anyone but You', year: 2023, rating: '6.8', desc: '1h 43m | 2023' },
       { title: 'Crazy, Stupid, Love', year: 2011, rating: '7.4', desc: '1h 58m | 2011' },
       { title: 'A Million Ways to Die in the West', year: 2014, rating: '6.1', desc: '1h 56m | 2014' },
+      { title: 'Tag', year: 2018, rating: '6.5', desc: '1h 40m | 2018' },
     ],
   },
   {
@@ -333,6 +334,10 @@ const sections = [
       { title: 'The Transporter', year: 2002, rating: '6.8', desc: '1h 32m | 2002' },
       { title: 'Transporter 2', year: 2005, rating: '6.3', desc: '1h 27m | 2005' },
       { title: 'Transporter 3', year: 2008, rating: '6.1', desc: '1h 44m | 2008' },
+      { title: 'The Rip', year: 2026, rating: '6.8', desc: '1h 53m | 2026' },
+      { title: 'Shelter', year: 2026, rating: '6.1', desc: '1h 47m | 2026' },
+      { title: 'Marked Men', year: 2025, rating: '5.2', desc: '1h 33m | 2025' },
+      { title: 'Deepwater Horizon', year: 2016, rating: '7.1', desc: '1h 47m | 2016' },
     ],
   },
   {
@@ -360,6 +365,7 @@ const sections = [
       { title: 'The Gentlemen', year: 2020, rating: '7.8', desc: '1h 53m | 2020' },
       { title: 'October Sky', year: 1999, rating: '7.8', desc: '1h 48m | 1999' },
       { title: 'A Working Man', year: 2025, rating: '5.7', desc: '2025' },
+      { title: 'War Machine', year: 2017, rating: '6.3', desc: '2h 2m | 2017' },
     ],
   },
   {
@@ -390,6 +396,7 @@ const sections = [
       { title: 'Den of Thieves 2: Pantera', year: 2025, rating: '6.3', desc: '2025' },
       { title: 'American Sniper', year: 2014, rating: '7.3', desc: '2h 12m | 2014' },
       { title: 'The Town', year: 2010, rating: '7.5', desc: '2h 5m | 2010' },
+      { title: 'Crime 101', year: 2026, rating: '6.8', desc: '2h 20m | 2026' },
     ],
   },
   {
@@ -414,6 +421,7 @@ const sections = [
       { title: 'The Gorge', year: 2025, rating: '6.7', desc: '2025' },
       { title: 'Flight Risk', year: 2025, rating: '5.2', desc: '2025' },
       { title: 'Lift', year: 2024, rating: '5.5', desc: '1h 47m | 2024' },
+      { title: 'Wind River', year: 2017, rating: '7.7', desc: '1h 47m | 2017' },
     ],
   },
 
@@ -487,6 +495,7 @@ const sections = [
       { title: 'Gen V', rating: '7.8', desc: '1 Season | 2023' },
       { title: '9-1-1', rating: '7.9', desc: '7 Seasons | 2018-' },
       { title: 'The Rookie', rating: '8.0', desc: '6 Seasons | 2018-' },
+      { title: 'Burn Notice', rating: '7.9', desc: '7 Seasons | 2007-2013' },
     ],
   },
   {
@@ -535,6 +544,8 @@ const sections = [
       { title: 'The Resident', rating: '7.8', desc: '6 Seasons | 2018-2023' },
       { title: 'Defending Jacob', rating: '7.8', desc: '1 Season | 2020' },
       { title: 'Suits: LA', rating: '5.7', desc: '1 Season | 2025' },
+      { title: 'His & Hers', rating: '7.2', desc: '1 Season | 2024' },
+      { title: 'Ransom Canyon', rating: '6.8', desc: '1 Season | 2025' },
     ],
   },
   {
@@ -561,6 +572,8 @@ const sections = [
       { title: 'Parks and Recreation', rating: '8.6', desc: '7 Seasons | 2009-2015' },
       { title: 'The Gentlemen', year: 2024, rating: '8.0', desc: '1 Season | 2024' },
       { title: 'Misfits', rating: '8.2', desc: '5 Seasons | 2009-2013' },
+      { title: 'Nobody Wants This', rating: '7.4', desc: '1 Season | 2024' },
+      { title: 'Arrested Development', rating: '8.7', desc: '5 Seasons | 2003-2019' },
     ],
   },
   {
@@ -625,6 +638,8 @@ const sections = [
       { title: 'Dexter', rating: '8.6', desc: '8 Seasons | 2006-2013' },
       { title: 'Snowfall', rating: '8.4', desc: '6 Seasons | 2017-2023' },
       { title: 'Obliterated', rating: '6.8', desc: '1 Season | 2023' },
+      { title: 'Landman', rating: '7.8', desc: '1 Season | 2024' },
+      { title: 'Banshee', rating: '8.4', desc: '4 Seasons | 2013-2016' },
     ],
   },
 ];
