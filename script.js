@@ -366,6 +366,7 @@ const sections = [
       { title: 'October Sky', year: 1999, rating: '7.8', desc: '1h 48m | 1999' },
       { title: 'A Working Man', year: 2025, rating: '5.7', desc: '2025' },
       { title: 'War Machine', year: 2026, rating: '6.3', desc: '1h 46m | 2026' },
+      { title: 'Instant Family', year: 2018, rating: '7.3', desc: '1h 58m | 2018' },
     ],
   },
   {
