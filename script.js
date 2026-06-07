@@ -276,7 +276,6 @@ const sections = [
       { title: 'Venom', year: 2018, rating: '6.6', desc: '1h 52m | 2018' },
       { title: 'Venom: Let There Be Carnage', year: 2021, rating: '5.9', desc: '1h 37m | 2021' },
       { title: 'Subservience', year: 2024, rating: '5.4', desc: '2024' },
-      { title: 'Inception', year: 2010, rating: '8.4', desc: '2h 28m | 2010' },
       { title: 'Interstellar', year: 2014, rating: '8.5', desc: '2h 49m | 2014' },
     ],
   },
