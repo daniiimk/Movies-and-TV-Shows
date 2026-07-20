@@ -39,6 +39,7 @@ const sections = [
       { title: 'Shutter Island', year: 2010, rating: '8.2', desc: '2h 18m | 2010' },
       { title: 'Red Notice', year: 2021, rating: '6.3', desc: '1h 58m | 2021' },
       { title: 'Prisoners', year: 2013, rating: '8.1', desc: '2h 33m | 2013' },
+      { title: 'Obsession', year: 2026, rating: '8.3', desc: '1h 48m | 2026' },
     ],
   },
   {
