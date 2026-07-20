@@ -433,6 +433,7 @@ const sections = [
     anchorId: 'tv-shows',
     items: [
       { title: 'Moving', rating: '8.5', desc: '| 2023-' },
+      { title: 'The Uncanny Counter', rating: '8.3', desc: '| 2020-' },
     ],
   },
   // TV SHOWS
