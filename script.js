@@ -432,7 +432,6 @@ const sections = [
     heading: 'Korean Shows',
     anchorId: 'tv-shows',
     items: [
-      { title: 'Moving', rating: '8.5', desc: '1 Season | 2023' },
     ],
   },
   // TV SHOWS
