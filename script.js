@@ -340,6 +340,7 @@ const sections = [
       { title: 'Marked Men', year: 2025, rating: '5.2', desc: '1h 33m | 2025' },
       { title: 'Deepwater Horizon', year: 2016, rating: '7.1', desc: '1h 47m | 2016' },
       { title: 'The Batman', year: 2022, rating: '7.7', desc: '2h 57m | 2022' },
+      { title: 'In the Grey', year: 2026, rating: '7.5', desc: '1h 37m | 2026' },
     ],
   },
   {
